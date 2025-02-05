@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algol95&label=Profile%20views&color=0e75b6&style=flat" alt="algol95" /> </p>
 
-- Actualmente estoy trabajando en [Escuela de Música: Piano]([https://github.com/Noemi1977/toquen-DOM))
+- Actualmente estoy trabajando en [Escuela de Música: Piano(https://github.com/Noemi1977/toquen-DOM))
 
 - 🌱 Actualmente estoy aprendiendo **Bootcamp FullStack orientado a Salesforce - Factoria F5**
 
@@ -81,6 +81,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algol95&show_icons=true&locale=en&layout=compact" alt="algol95" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algol95&show_icons=true&locale=en" alt="algol95" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Noemi1977&show_icons=true&locale=en" alt="Noemi1977" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algol95&" alt="algol95" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Noemi1977&" alt="Noemi1977" /></p>
