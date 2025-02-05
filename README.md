@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hola 👋, soy Noemi Casaprima Pendás</h1>
 <h3 align="center">Titulada en Desarrollo Aplicaciones Web</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://img.freepik.com/vector-gratis/linda-chica-hacker-operando-laptop-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-aislada-plana_138676-9487.jpg)"> 
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/vector-gratis/linda-chica-hacker-operando-laptop-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-aislada-plana_138676-9487.jpg"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=algol95&label=Profile%20views&color=0e75b6&style=flat" alt="algol95" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Noemi1977&label=Profile%20views&color=0e75b6&style=flat" alt="Noemi1977" /> </p>
 
 - Actualmente estoy trabajando en [Escuela de Música: Piano(https://github.com/Noemi1977/toquen-DOM))
 
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"> 🌐 Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/noemí-casaprima-pendás" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noemi casaprima pendás" height="30" width="40" /></a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left"> 💻 Languages and Tools:</h2>
 <p align="center">
   <a href="https://git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" />
@@ -85,3 +85,12 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Noemi1977&"  /></p>
 
+<h3 align="left"> 🐙 Contributions:</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
