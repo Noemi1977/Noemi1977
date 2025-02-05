@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Noemi1977&"  /></p>
 
-<h3 align="left"> 🐙 Contributions:</h3>
+<h3 align="left"> 🐙 Joke </h3>
 
 <div align="center">
   <picture>
