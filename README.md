@@ -1,4 +1,4 @@
-## Hi there I'm Noemi 👋
+<!--## Hi there I'm Noemi 👋
 
 
 **Noemi1977/Noemi1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,98 +12,33 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...  
+- ⚡ Fun fact: ...  -->
 
-# ¡Hola, soy Noemí Casaprima Pendás! 👋
+<h1 align="center">Hola 👋, soy Noemi Casaprima Pendás</h1>
+<h3 align="center">Titulada en Desarrollo Aplicaciones Web</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Soy una persona dinámica, amante de los animales 🐾, apasionada por la lectura 📚 y los viajes 🌍. Actualmente, estoy realizando un bootcamp full stack con especialización en Salesforce y mi proyecto en curso es el desarrollo de una **escuela de música** en la que podremos tocar el piano 🎹.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=algol95&label=Profile%20views&color=0e75b6&style=flat" alt="algol95" /> </p>
 
----
+- Actualmente estoy trabajando en [Escuela de Música: Piano]([https://github.com/Noemi1977/toquen-DOM))
 
-## Sobre Mí
+- 🌱 Actualmente estoy aprendiendo **Bootcamp FullStack orientado a Salesforce - Factoria F5**
 
-Soy una profesional apasionada por la tecnología , que busca consolidar mi carrera en el area de desarrollo de software. Mi experiencia previa en roles administrativos me ha dotado de una gran capacidad para la atención al detalle, resolución de problemas y adaptación a nuevos entornos.
-
----
-
-## Habilidades & Tecnologías
-
-### Lenguajes y Desarrollo
-- **Java**
-- **JavaScript**
-- **HTML**
-- **CSS**
-
-### Automatización y Testing
-- **Selenium WebDriver**
-- **Cucumber**
-- **Cypress**
-- **API Postman**
-- **TestNG**
-- **TestRail**
-
-### Herramientas y Metodologías
-- **Visual Studio Code**
-- **Git**
-- **Jira**
-- **Azure DevOps**
-
-### SAP
-- **SAP UI5**
-- **SAP ABAP**
-
-### Diseño y Prototipado
-- **Canva**
-- **Draw.io**
-- **Figma**
-
-### Frameworks
-- **Spring Boot**
-- **Bootstrap**
-
----
-
-## Experiencia Laboral
-
-- **QA Tester en DXC Technology**  
-  _Durante mi experiencia en DXC Technology, me sumergí en el testing de aplicaciones web. Realicé casos de prueba, historias de usuario y scripts de automatización utilizando herramientas como Selenium, Java, Cucumber, Cypress y Postman._
+- 📫 Contacto: **noemi.casaprima.pendas@gmail.com**
 
 
----
 
-## Formación
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/noemí-casaprima-pendás" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ángel miguel cubino aragón" height="30" width="40" /></a>
 
-- **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**  
-  _CGFS, Centro de Formación Profesional_  
-  *Septiembre 2022 - Julio 2024*
+</p>
 
-- **CGFS Administración y Finanzas**  
-  _Asturias Educación_  
-  *Septiembre 2010 - Junio 2012*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algol95&show_icons=true&locale=en&layout=compact" alt="algol95" /></p>
 
-## Certificaciones y Cursos
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algol95&show_icons=true&locale=en" alt="algol95" /></p>
 
-- **API Testing con POSTMAN: Masterclass todo en 1** (2024) - *Udemy*
-- **Los primeros pasos para aprender SAP UI5** (Agosto 2024) - *Udemy*
-- **Curso completo ABAP Prog Estructurada** (Septiembre 2024 - Octubre 2024) - *Udemy*
-- **Software Testing desde cero: MasterClass todo en 1** (2024) - *Udemy*
-- **Selenium con Java y Cucumber: El curso definitivo** (Octubre 2024) - *Udemy*
-
----
-
-## Proyectos
-
-- **Escuela de Música** 🎹  
-  _Proyecto en desarrollo para crear una plataforma educativa donde se puedan aprender y tocar instrumentos, con especial enfoque en el piano._
-
----
-
-## Contacto
-
-- **Email:** [noemi.casaprima.pendas@gmail.com](mailto:noemi.casaprima.pendas@gmail.com)
-- **LinkedIn:** [Noemí Casaprima Pendás](https://www.linkedin.com/in/noemí-casaprima-pendás)
-- **Teléfono:** +34 696 505 879
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algol95&" alt="algol95" /></p>
