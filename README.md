@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Noemi1977&label=Profile%20views&color=0e75b6&style=flat" alt="Noemi1977" /> </p>
 
-- Actualmente estoy trabajando en [Escuela de Música: Piano(https://github.com/Noemi1977/toquen-DOM))
+- Actualmente estoy trabajando en [Escuela de Música: Piano([(https://github.com/Noemi1977/Adopta_un_ronroneo.git])
 
 - 🌱 Actualmente estoy aprendiendo **Bootcamp FullStack orientado a Salesforce - Factoria F5**
 
