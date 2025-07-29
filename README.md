@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Noemi1977&label=Profile%20views&color=0e75b6&style=flat" alt="Noemi1977" /> </p>
 
-- Actualmente estoy trabajando en [(https://github.com/Noemi1977/To-Do_List.git)])
+- Actualmente estoy trabajando en [([https://github.com/Noemi1977/To-Do_List.git](https://github.com/Noemi1977/todolist-react-node-mysql.git]))
 
 - 🌱 Actualmente estoy aprendiendo **Bootcamp FullStack orientado a Salesforce - Factoria F5**
 
